@@ -1,6 +1,6 @@
 <?php
 
-namespace package;
+namespace ittech227\package;
 
 class ConfigProvider
 {
