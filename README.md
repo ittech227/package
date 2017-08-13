@@ -1,2 +1,2 @@
-# package
-Module does nothing. It's needed to check working of zend-component-installer with non-zend packages
+# module
+Package which does nothing. It's needed to check if zf component installer will work with non-zend packages.
